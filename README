@@ -4,7 +4,7 @@ Tutorial for the codes are in the pdf document named "A Technical Note on 2D-FLC
 
 All the matlab files can be found in the folder "MatlabCodes".
 
-A synthetic data (simulated_data.mat) is also included with if instrumentation response function (IRF.mat).
+A synthetic data (simulated_data.mat) is also included with instrumentation response function (IRF.mat).
 
 It is advisable to work with a simulated data first before analyzing the real data. 
 
