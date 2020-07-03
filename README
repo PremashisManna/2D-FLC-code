@@ -1,1 +1,13 @@
-This is the documentation for 2D-FLC code
+This is 2D fluorscence lifetime correlation (2D-FLC) code orginially written by Toru Kondo () while at Schlau-Cohen Lab at MIT.
+
+Tutorial for the codes are in the pdf document named "A Technical Note on 2D-FLC.pdf"
+
+All the matlab files can be found in the folder "MatlabCodes".
+
+A synthetic data (simulated_data.mat) is also included with if instrumentation response function (IRF.mat).
+
+It is advisable to work with a simulated data first before analyzing the real data. 
+
+
+
+
